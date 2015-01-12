@@ -1,4 +1,5 @@
 # BlogSamples
+Android文件存储位置切换，如何获取SD卡信息
 我的博客例子
 http://www.cnblogs.com/John-Chen/
 
